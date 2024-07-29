@@ -6,7 +6,7 @@ function App() {
       <div className="container">
         <img
           className="product-image"
-          src="/images/image-product-mobile.jpg"
+          src="images/image-product-mobile.jpg"
           alt="Perfume Bottle"
         />
         <div className="text-content">
